@@ -1,0 +1,15 @@
+Measurement of Toxicity Levels in Sentences using NLP and CNN with Word Embedding System
+................................................................
+
+Venue: https://aaai.org/Conferences/AAAI-22/ 
+
+Submission date: Sep 17, 2021
+
+Paper type: Abstract paper
+
+Group members (Group 11):
+
+Mahmudul Hasan Shakil - 21166034
+Zawad Alam            - 21166035
+Sazal Kanti Kundu     - 21166006
+Arnob Kumar Dey       - 21166011
